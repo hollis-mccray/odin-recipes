@@ -1,0 +1,1 @@
+A listing of some of my favorite Instant Pot recipes. The curry is a household favorite!
