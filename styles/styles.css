@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sample-image {
+  height: 500px;
+  width: auto;
+}
+
+span.ingredient {
+  color: red;
+}
